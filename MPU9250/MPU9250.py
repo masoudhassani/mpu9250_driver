@@ -1,5 +1,5 @@
-# this library ports FaBo9Axis_MPU9250 to python3
-# https://github.com/masoudhassani/mpu9250_driver
+# this library ports FaBo9Axis_MPU9250 to python3 from
+# https://github.com/FaBoPlatform/FaBo9AXIS-MPU9250-Python
 
 # original comments #############################
 # coding: utf-8
